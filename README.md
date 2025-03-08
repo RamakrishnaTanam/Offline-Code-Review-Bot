@@ -77,7 +77,7 @@ Then, open your browser and visit:
 
 ** How It Works**
 
-![Screenshot (38)](https://github.com/user-attachments/assets/9775cdea-7dbb-49f8-b5fb-af91de8e3fe2)
+![Screenshot (38)](https://github.com/user-attachments/assets/b434c204-ee9c-42d3-91fe-63add4ef8a3c)
 
 
 

@@ -33,8 +33,14 @@ cd ai-code-review-bot
 
 2️⃣ Create a Virtual Environment (Optional but Recommended)
 
+
+
 python -m venv venv
+
+
 source venv/bin/activate  # For Linux/Mac
+
+
 venv\Scripts\activate     # For Windows
 
 
@@ -42,29 +48,47 @@ venv\Scripts\activate     # For Windows
 
 
 pip install -r requirements.txt
+
+
 4️⃣ Install Ollama & CodeLlama Model
+
+
 🔹 Download and install Ollama
+
+
 🔹 Pull the CodeLlama model:
 
 
 
 ollama pull codellama
+
+
 5️⃣ Run the Application
 
 
 python app.py
+
 Then, open your browser and visit:
+
 👉 http://127.0.0.1:5000/
 
 
 
 
 ** How It Works**
+
+
 1️⃣ Enter your Python code snippet in the UI.
+
+
 
 2️⃣ Click the Analyze Code button.
 
+
+
 3️⃣ The AI bot (CodeLlama) reviews the code and provides suggestions.
+
+
 
 4️⃣ The code is also syntax highlighted for better readability.
 

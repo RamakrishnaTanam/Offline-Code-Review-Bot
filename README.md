@@ -77,6 +77,17 @@ Then, open your browser and visit:
 
 ** How It Works**
 
+![Screenshot (38)](https://github.com/user-attachments/assets/9775cdea-7dbb-49f8-b5fb-af91de8e3fe2)
+
+
+
+
+
+
+
+
+
+
 
 1️⃣ Enter your Python code snippet in the UI.
 
@@ -91,4 +102,19 @@ Then, open your browser and visit:
 
 
 4️⃣ The code is also syntax highlighted for better readability.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

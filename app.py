@@ -26,7 +26,7 @@ def index():
     if request.method == 'POST':
         code = request.form['code']
         if not code.strip():
-            result = "Please enter some code to analyze."
+            result = "Please enter some code to analyze and provide feedback."
         else:
             formatted_code = format_code(code)
             result = analyze_code(code)

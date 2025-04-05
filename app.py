@@ -23,7 +23,7 @@ def format_code(code_snippet):
 def index():
     result = ""
     formatted_code = ""
-    if request.method == 'POST':
+    if request.method == 'GET':
         code = request.form['code']
         if not code.strip():
             result = "Please enter some code to analyze."
